@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="theme4-chap2" name="Page-1">
+    <mxGraphModel dx="2454" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="&lt;div&gt;L&#39;IMPACT DU NUMERIQUE SUR&lt;/div&gt;&lt;div&gt;L&#39;ENVIRONNEMENT DES ENTREPRISES&lt;/div&gt;" vertex="1">
+          <mxGeometry height="96" width="220" x="560" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="N1h" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="Notion 1 : Place de marché (Marketplace)" vertex="1">
+          <mxGeometry height="56" width="210" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="N1d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;div&gt;Lieu virtuel (plateforme numérique) d&#39;échanges entre &lt;b&gt;offreurs&lt;/b&gt; et &lt;b&gt;demandeurs&lt;/b&gt; de biens et/ou de services.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="270" x="110" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="N1e" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="Exemple : Amazon, Airbnb, Le Bon Coin" vertex="1">
+          <mxGeometry height="48" width="270" x="110" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="eC1" edge="1" parent="1" source="C" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N1h">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1d" edge="1" parent="1" source="N1h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N1d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1e" edge="1" parent="1" source="N1h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N1e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N2h" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="Notion 2 : Les relations d&#39;échange&lt;div&gt;(BtoB, BtoC, CtoC, BtoG)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="650" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="N2a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;b&gt;BtoC -&amp;gt; Business to Consumer&lt;/b&gt;&lt;div&gt;Entreprise vers consommateurs finaux&lt;/div&gt;&lt;div&gt;Exemple : Amazon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="330" x="1000" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N2b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;b&gt;BtoB -&amp;gt; Business to Business&lt;/b&gt;&lt;div&gt;Échange entre entreprises&lt;/div&gt;&lt;div&gt;Exemple : Adobe (logiciels pro sur abonnement)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="330" x="1000" y="132" as="geometry" />
+        </mxCell>
+        <mxCell id="N2c" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;b&gt;CtoC -&amp;gt; Consumer to Consumer&lt;/b&gt;&lt;div&gt;Entre consommateurs&lt;/div&gt;&lt;div&gt;Exemple : Le Bon Coin&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="330" x="1000" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="N2d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;b&gt;BtoG -&amp;gt; Business to Government&lt;/b&gt;&lt;div&gt;Entreprises vers administrations publiques&lt;/div&gt;&lt;div&gt;Exemple : refonte du site d&#39;une mairie&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84" width="330" x="1000" y="316" as="geometry" />
+        </mxCell>
+        <mxCell id="eC2" edge="1" parent="1" source="C" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N2h">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2N2a" edge="1" parent="1" source="N2h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N2a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2N2b" edge="1" parent="1" source="N2h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N2b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2N2c" edge="1" parent="1" source="N2h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N2c">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2N2d" edge="1" parent="1" source="N2h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N2d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3h" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="Notion 3 : Les externalités (effet) de réseau" vertex="1">
+          <mxGeometry height="56" width="210" x="820" y="494" as="geometry" />
+        </mxCell>
+        <mxCell id="N3d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;div&gt;La &lt;b&gt;valeur&lt;/b&gt; d&#39;un produit ou service augmente avec le &lt;b&gt;nombre d&#39;utilisateurs&lt;/b&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plus d&#39;utilisateurs, plus la plateforme est attractive : effet de réseau puissant, positif ou négatif.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;L&#39;&lt;b&gt;e-réputation&lt;/b&gt; devient un levier essentiel.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="128" width="330" x="1080" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="N3e" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="Exemple : LinkedIn, Instagram" vertex="1">
+          <mxGeometry height="48" width="330" x="1080" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="eC3" edge="1" parent="1" source="C" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N3h">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3d" edge="1" parent="1" source="N3h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N3d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3e" edge="1" parent="1" source="N3h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N3e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N4h" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="Notion 4 : Économie collaborative" vertex="1">
+          <mxGeometry height="56" width="240" x="560" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="N4d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;div&gt;&lt;b&gt;Économie du partage&lt;/b&gt; : partager entre consommateurs l&#39;usage de produits, équipements ou services.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Privilégie la &lt;b&gt;location&lt;/b&gt; plutôt que la &lt;b&gt;propriété&lt;/b&gt;.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="320" x="340" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="N4e" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="Exemple : Nespresso (abonnement machine)" vertex="1">
+          <mxGeometry height="60" width="280" x="690" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="eC4" edge="1" parent="1" source="C" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N4h">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4d" edge="1" parent="1" source="N4h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N4d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4e" edge="1" parent="1" source="N4h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N4e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N5h" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2fa84f;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" value="Notion 5 : Désintermédiation" vertex="1">
+          <mxGeometry height="56" width="210" x="290" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N5d" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#7cc894;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="&lt;div&gt;Réduction ou &lt;b&gt;suppression des intermédiaires&lt;/b&gt; dans un circuit de distribution.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Internet l&#39;a largement favorisée.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="-60" y="385.5" as="geometry" />
+        </mxCell>
+        <mxCell id="N5e" parent="1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#7cc894;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" value="Exemple : disparition des agences de voyage (transport aérien)" vertex="1">
+          <mxGeometry height="60" width="300" x="-60" y="510.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eC5" edge="1" parent="1" source="C" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N5h">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5d" edge="1" parent="1" source="N5h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2FA84F;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N5d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5e" edge="1" parent="1" source="N5h" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2FA84F;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" target="N5e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
